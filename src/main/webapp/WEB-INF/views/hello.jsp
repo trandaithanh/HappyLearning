@@ -22,10 +22,10 @@
 					<div class="panel-heading">
 						<div class="row">
 							<div class="col-xs-6">
-								<a href="#" class="active" id="login-form-link">Login</a>
+								<a href="#" class="active" id="login-form-link" style="color: white;">Login</a>
 							</div>
 							<div class="col-xs-6">
-								<a href="#" id="register-form-link">Register</a>
+								<a href="#" id="register-form-link" style="color: white;">Register</a>
 							</div>
 						</div>
 						<hr>
@@ -55,7 +55,7 @@
 										<div class="row">
 											<div class="col-lg-12">
 												<div class="text-center">
-													<a href="http://phpoll.com/recover" tabindex="5" class="forgot-password">Forgot Password?</a>
+													<a href="http://phpoll.com/recover" tabindex="5" class="forgot-password" style="color: white;">Forgot Password?</a>
 												</div>
 											</div>
 										</div>
