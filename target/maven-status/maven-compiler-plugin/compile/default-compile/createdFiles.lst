@@ -1,4 +1,0 @@
-web\config\SpringWebAppInitializer.class
-web\config\WebMvcConfig.class
-web\config\ApplicationContextConfig.class
-web\controller\WelcomePage.class
